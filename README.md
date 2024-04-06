@@ -24,3 +24,8 @@ This project is an online clothing store web application developed using Java, J
 
 ## Author
 The project is developed by Nguyen Tan Hung.
+
+## [Preview Image]
+![5c571d1bd5e67ab823f7](https://github.com/hungnt-ds/DoubHe---Online-Shopping/assets/161936365/999e332c-8243-481b-8122-9f469cb69a06)
+
+![11328022-cfb5-45d9-a812-69f36b9c7be7](https://github.com/hungnt-ds/DoubHe---Online-Shopping/assets/161936365/66eba86a-b737-4748-b426-ba4aea23adb6)
